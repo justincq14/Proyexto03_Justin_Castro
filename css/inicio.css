@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+#Descripción{
+    border-radius: 25px;
+    border: 2px solid #284b5b;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: x-large;
+}
+#redes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #284b5b;
+    width: 50px;
+    height: 150px;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 17%;
+}
+h2{
+    text-align: center;
+    padding-top: 40px;
+}
+li{
+    font-size: large;
+}
+#resident{
+    padding-left: 20px;
+}
+.texto1{
+    padding-top: 20px;
+    font-size: large;
+}
+.contenedor{
+display: flex;
+justify-content: space-around;
+}
+.cards{
+    background-color: #284b5b;
+    width: 40%;
+    height: 800px;
+    border-radius: 30px;
+}
+.cards p{
+    width: 90%;
+    color: whitesmoke;
+    padding-left: 40px;
+
+}
+.cards h3{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 10px;
+}
+.cards li{
+    color: white;
+}
+.cards img{
+    margin-left: 40px;
+}
+.cards iframe{
+    margin-left: 80px;
+}
+.contenedor2{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: #284b5b;
+    width: 100%;
+    height: 150px;
+}
+.pie{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}.pie p{
+    color: whitesmoke;
+}
+#enlaces{
+    display: flex;
+    flex-direction: column;
+}
