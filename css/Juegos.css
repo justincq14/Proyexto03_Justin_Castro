@@ -38,14 +38,17 @@ box-shadow: 10px 5px 10px 5px black;
 }
 .noticia1 p{
     color: whitesmoke;
-    font-size: large;
+    font-size: medium;
+    margin-right: 20px;
 }
 .noticia1 h2{
     color: whitesmoke;
+    margin-right: 20px;
 }
 .noticia1 img{
-    width: 900px;
-    height: 500px;
+    object-fit: contain;
+    width: 850px;
+    height: 450px;
 }
 .personajes{
     display: flex;

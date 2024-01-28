@@ -69,8 +69,8 @@ width: 100%;
 height: 400px;
 }
 }
-@media screen and (max-width:800px){
-.gotos{
+@media screen and (max-width:600px){
+.fotos{
     display: none;
 }
 #titulo-galeria{
